@@ -1,0 +1,1 @@
+echo "Run the command ./help for help"

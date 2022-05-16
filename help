@@ -1,0 +1,1 @@
+echo "Welcome to HiddenUnblocker! It is disgusied as a broken website, but you can really unblock any website on the internet. To get started, type './chrome' or './firefox' to open that browser."
